@@ -1,0 +1,21 @@
+.App {
+  width: 95vw;
+  height: 90vh;
+  box-shadow: inset 0 0 5px black;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-weight: 100;
+}
+
+.header {
+  font-size: 2rem;
+  height: auto;
+  padding: 1rem;
+  box-shadow: inset 0 0 5px black;
+  border-radius: 1rem;
+  z-index: 1;
+}/*# sourceMappingURL=App.css.map */
